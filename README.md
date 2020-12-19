@@ -5,7 +5,9 @@ In machine learning, there are many algorithms to select for a model. What algor
   2.	We will tweak our data to fit the problem.
   3.	We will define and tune the models.
   4.	We will compare and evaluate the models.
+  
 The three models to be used in the report are:
+
   1.	XGBoost
   2.	Logistic Regression
   3.	Neural network
