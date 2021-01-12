@@ -1,6 +1,6 @@
 ## Introduction:
 
-In machine learning, there are many algorithms to select for a model. What algorithm to choose can be filtered by analysing the problem and the data. After the filtration process, we are often left with multiple algorithms to select for a model. In this case, if feasible, we should train and tune multiple algorithms to find the best algorithm. In this report, we dive into the practice of using and tuning different models. The report will go through each step involved in solving a machine learning problem:
+In machine learning, there are many algorithms to select for a model. What algorithm to choose can be filtered by analysing the problem and the data. After the filtration process, we are still often left with multiple algorithms to select for a model. In this case, if feasible, we should train and tune multiple algorithms to find the best algorithm. In this report, we dive into the practice of using and tuning different models. The report will go through each step involved in solving a machine learning problem:
   1.  We will define a problem.
   2.	We will tweak our data to fit the problem.
   3.	We will define and tune the models.
