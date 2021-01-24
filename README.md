@@ -15,7 +15,7 @@ The three models to be used in the report are:
 
 ## Problem Formulation:
 
-The problem presented in the report is from the Jane Street Market Prediction competition. The competition involves predicting whether a trade will be profitable or not given the input. The competition's evaluation uses a utility function; however, our evaluation will be which model has more significant profit potential.
+The problem presented in the report is from the Jane Street Market Prediction competition. The competition involves predicting whether a trade will be profitable or not given the input.
 
 Data used to train/validation/test the model contains the date, weight, four resp (return) columns, and 130 feature columns. Each row represents a trade, and different resp values represent the different returns. For simplicity, we will ignore the multiple resp value and weights. We will use one of the resp columns to evaluate if the trade should be taken or not. If the resp is below 0, we will label 0, and 1 if resp above 1. The goal of our model will be to predict if a given trade should be 0 or 1. In other words, this is a binary classification problem.
 
